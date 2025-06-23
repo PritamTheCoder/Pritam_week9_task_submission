@@ -1,0 +1,2 @@
+Part 1: The "Smart Dashain" Festival Organizer - Abstraction & Advanced Exceptions
+Bijay and Pooja are planning a grand Dashain celebration and need a smart system to manage the activities, especially considering the inevitable "last-minute surprises"!
